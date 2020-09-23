@@ -1754,6 +1754,8 @@ input, select, textarea {
 
 		ul li {
 			padding-left: 0.5em;
+			font-size: 18px;
+			
 		}
 
 	ol {
@@ -2442,4 +2444,4 @@ input, select, textarea {
 						margin-top: 0;
 					}
 				}
-	
+			
